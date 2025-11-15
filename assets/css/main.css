@@ -942,7 +942,7 @@ i {
 .work-card-wrapper {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
-  grid-template-rows: 60vh 120vh 60vh;
+
   gap: var(--padding-small);
 
 }
