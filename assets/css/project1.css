@@ -789,7 +789,7 @@ i {
 }
 
 .work-content-img {
-  height: 70vh;
+  height: auto;
   width:90%;
 margin: 2rem; 
  position: relative;
@@ -903,7 +903,7 @@ margin: 2rem;
 .work-small-card-wrapper-img-1,
 .work-small-card-wrapper-img-2 {
   position: relative;
-  height: 80vh;
+  height: auto;
 }
 
 .view-project-button {
