@@ -361,7 +361,7 @@ i {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-image: linear-gradient(#a5a5a565, rgba(0, 0, 0, 0.5)), url(../images/featured/ComfyUI_00015_.png);
+  background-image: linear-gradient(#a5a5a565, rgba(0, 0, 0, 0.5)), url(../images/featured/ComfyUI_00015_.jpg);
   background-size: cover;
   background-position: center;
   filter: blur(10px);
@@ -1886,3 +1886,4 @@ i {
   transform: scale(1.5);
 }
 }
+
